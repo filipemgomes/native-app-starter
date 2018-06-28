@@ -1,0 +1,15 @@
+.page {
+  background-color: black;
+}
+
+.form {
+  background-color: white;
+  padding: 7px;
+  margin: 35px 20px 0 20px;
+}
+
+Image {
+  width: 280px;
+  height: 280px;
+  margin: 14px;
+}
